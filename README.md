@@ -9,7 +9,7 @@ this is an web application that takes a number from a user and returns a range o
 * an active account on github
 * web browser
 
-###Specifications
+# Specifications
 Any number that is entered clears the previous number
 Any number divisible by 3 is replaced with "ping"
 Any number divisible by 5 is replaced with "pong"
