@@ -1,5 +1,6 @@
 # Ping Pong
-this is an web application that takes a number from a user and returns a range of numbers from 1 to the chosen number 
+this is an web application that takes a number from a user and returns a range of numbers from 1 to the chosen number
+[pingpong](https://anthonymwangi072.github.io/Ping-Pong/) 
 
 ## Setup/Installation Requirements
 * computer/laptop]
@@ -13,7 +14,6 @@ Any number that is entered clears the previous number
 Any number divisible by 3 is replaced with "ping"
 Any number divisible by 5 is replaced with "pong"
 Any number divisible by 15 is replaced with "pingpong"
-
 
 ## Known Bugs
 {performance bugs,
